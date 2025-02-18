@@ -1,5 +1,6 @@
 /**
  * Calcula el error absoluto entre un valor real y uno medido.
+ * 
  */
 public class ErrorAbsoluto {
     /**
