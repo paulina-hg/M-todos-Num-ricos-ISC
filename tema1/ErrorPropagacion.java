@@ -43,7 +43,7 @@ public class ErrorPropagacion {
     public static void main(String[] args) {
         double R1 = 100, e1 = 2;
         double R2 = 200, e2 = 3;
-        // Calcula Req y su error
+        // Calcula Req y su  error
         double[] resultado = resistencia_equivalente(R1, e1, R2, e2);
         System.out.printf("Resistencia equivalente: %.2f ± %.2f ohms%n", resultado[0], resultado[1]);
     }
