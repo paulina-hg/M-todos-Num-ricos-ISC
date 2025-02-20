@@ -28,7 +28,7 @@ public class ErrorRedondeo {
 
     public static void main(String[] args) {
         double valor = 3.14159;
-        double error = calcular(valor, 3); // redondear a 3 cifras decimales
+        double error = calcular(valor, 3); // redondear a 3 cifras  decimales
         double errorPct = calcularPorcentaje(valor, 3);
         System.out.println("Error de redondeo: " + error);
         System.out.printf("Error de redondeo (%%): %.6f %%\n", errorPct);
