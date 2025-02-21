@@ -14,7 +14,7 @@ public class ErrorRelativo {
     }
 
     public static void main(String[] args) {
-        // Caso de prueba
+        // Caso de  prueba
         double errorRel = calcular(2.50, 2.45);
         System.out.printf("Error relativo: %.4f %%\n", errorRel);
     }
