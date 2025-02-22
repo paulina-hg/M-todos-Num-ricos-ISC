@@ -24,6 +24,7 @@ public class PrecisionMedicion {
         System.out.println("Precisión de medición: " + precision);
 
         // Error en el cálculo de un área
+        
         double areaError = areaCirculo(5.678, 5.68);
         System.out.println("Precisión en área de círculo: " + areaError);
     }
