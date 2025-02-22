@@ -23,6 +23,7 @@ public class ErrorTruncamiento {
 
     /**
      * Calcula el error porcentual de truncamiento.
+     * 
      */
     public static double calcularPorcentaje(double valorOriginal, int cifrasDecimales) {
         double truncado = truncar(valorOriginal, cifrasDecimales);
