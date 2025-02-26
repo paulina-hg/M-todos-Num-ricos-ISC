@@ -33,6 +33,7 @@ public class Biseccion {
 
         // Llamamos al método de Bisección y mostramos la raíz
         
+        
         double raiz = biseccion(a, b, tol, maxIter);
         System.out.printf("Raíz aproximada: %.6f\n", raiz);
     }
