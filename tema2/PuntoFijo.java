@@ -22,6 +22,7 @@ public class PuntoFijo {
     }
 
     
+
     public static void main(String[] args) {
         double x0 = 0.5, tol = 0.0001;
         int maxIter = 100;
