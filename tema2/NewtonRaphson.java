@@ -25,6 +25,7 @@ public class NewtonRaphson {
 
         return Double.NaN; // Si no converge
     }
+    
 
     public static void main(String[] args) {
         double x0 = 1, tol = 0.0001;
