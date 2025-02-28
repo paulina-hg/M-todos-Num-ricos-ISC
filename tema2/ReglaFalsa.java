@@ -11,6 +11,7 @@ public class ReglaFalsa {
             System.out.println("No se garantiza raíz en el intervalo");
             return Double.NaN;
         }
+        
 
         double c = a; // Inicialización
         for (int i = 0; i < maxIter; i++) {
