@@ -39,4 +39,5 @@ public class Secante {
         else
             System.out.println("No convergió");
     }
+    
 }
