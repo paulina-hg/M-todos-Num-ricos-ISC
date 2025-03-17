@@ -65,6 +65,7 @@ public class EliminacionGaussianaConPivote {
             for (double val : fila)
                 System.out.printf("%10.4f", val);
             System.out.println();
+            
         }
     }
 }
