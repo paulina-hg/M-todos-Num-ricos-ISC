@@ -77,5 +77,6 @@ public class GaussJordan {
             System.out.println();
         }
         System.out.println();
+        
     }
 }
