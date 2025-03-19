@@ -84,6 +84,7 @@ public class MetodoJacobi {
         return true;
     }
 
+    
     // Imprime la matriz
     public static void printMatrix(double[][] matrix) {
         for (double[] row : matrix) {
