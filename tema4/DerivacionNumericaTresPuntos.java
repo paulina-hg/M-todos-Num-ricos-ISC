@@ -7,7 +7,7 @@ import net.objecthunter.exp4j.ExpressionBuilder;
 
 // Clase principal del programa
 public class DerivacionNumericaTresPuntos {
-    
+
 
     // Método principal que ejecuta el programa
     public static void main(String[] args) {
@@ -25,6 +25,7 @@ public class DerivacionNumericaTresPuntos {
         double x = scanner.nextDouble();
 
         // Solicita el valor de h (paso pequeño)
+        
         System.out.print("Ingrese el valor de h: ");
         double h = scanner.nextDouble();
        
