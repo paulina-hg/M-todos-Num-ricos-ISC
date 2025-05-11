@@ -16,6 +16,7 @@ public class MetodoTrapecio {
         Resultados salida = new Resultados();
         salida.mostrar(resultado);
     }
+    
 }
 
 // Clase encargada de capturar los datos de entrada del usuario
