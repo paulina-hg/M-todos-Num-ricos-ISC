@@ -16,4 +16,5 @@ public class Interpolacion_Lineal {
         // Se muestra el valor interpolado con 4 cifras decimales
         System.out.printf("Valor interpolado en x = 3.6000 es: %.4f", resultado);
     }
+    
 }
