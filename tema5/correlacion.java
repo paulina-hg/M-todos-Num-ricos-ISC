@@ -17,6 +17,7 @@ public class correlacion {
         n = scanner.nextInt();
 
         // Arreglos para almacenar los valores de X y Y
+        
         double[] datosX = new double[n];
         double[] datosY = new double[n];
 
