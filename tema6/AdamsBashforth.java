@@ -70,6 +70,7 @@ public class AdamsBashforth {
         return 2 * y * (1 - y);
 
 
+        
 
     }
 }
