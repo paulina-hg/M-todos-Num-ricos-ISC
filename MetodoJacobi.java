@@ -6,8 +6,9 @@ public class MetodoJacobi {
         double[][][] testCases = {
 
             { 
-                {1, 2, 3},
-                {7, 8, 9}
+                {10, 1, 1, 12},
+                {2, 10, 1, 13},
+                {2, 2, 10, 14}
             }
         };
 
